@@ -1,0 +1,4 @@
+Host rover
+    User husky
+    HostName jetson-1.local
+
