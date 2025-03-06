@@ -6,5 +6,5 @@ cd Resurgence
 mkdir -p build
 cd build
 cmake ../src
-make -j Rover
-./Rover -p arm
+make -j
+./Rover -p $1

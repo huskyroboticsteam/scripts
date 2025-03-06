@@ -12,7 +12,7 @@ If setting up the rover, e.g. provisioning a jetson:
 
 ```
 cd scripts
-./rover_setup.sh
+./setup_rover.sh
 ```
 
 ## Laptop setup
@@ -21,6 +21,6 @@ If setting up a laptop to connect to the rover:
 
 ```
 cd scripts
-./laptop_setup.sh
+./setup_laptop.sh
 ```
 
